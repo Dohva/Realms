@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Realms</title>
+      <link>https://dohva.github.io/Realms</link>
+      <description>Last 10 notes on Realms</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Lyse, bjergsletten i Alpon</title>
-    <link>https://quartz.jzhao.xyz/rakdam-fantasy/Lyse</link>
-    <guid>https://quartz.jzhao.xyz/rakdam-fantasy/Lyse</guid>
+    <link>https://dohva.github.io/Realms/rakdam-fantasy/Lyse</link>
+    <guid>https://dohva.github.io/Realms/rakdam-fantasy/Lyse</guid>
     <description><![CDATA[ Byen Lyse er centrum for bjergregionen Alpon. Alpon er højt over vandets overflade omringet af en bjergkæde som skærer igennem landet. ]]></description>
     <pubDate>Thu, 23 Apr 2026 19:02:25 GMT</pubDate>
   </item><item>
     <title>Velkommen til Realms</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://dohva.github.io/Realms/</link>
+    <guid>https://dohva.github.io/Realms/</guid>
     <description><![CDATA[ Realms er et mini-projekt, som har til formål at være et lærred til, at male en low-magic fantasy setting på. ]]></description>
     <pubDate>Thu, 23 Apr 2026 18:56:00 GMT</pubDate>
   </item>
